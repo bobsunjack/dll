@@ -1,0 +1,9 @@
+LIBRARY DllMain
+
+EXPORTS
+
+fnDllMain
+
+one
+
+two
